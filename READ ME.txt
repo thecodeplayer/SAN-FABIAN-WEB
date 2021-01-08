@@ -1,0 +1,11 @@
+You need to import the database before runnning the website.
+
+Import the whole database in phpMyAdmin.
+The database will be found in db>whole db>webdb.sql
+
+OR
+
+You can also import by tables in phpMyAdmin with 'webDB' database name
+The tables will be found in db>by tables
+
+Than you!
